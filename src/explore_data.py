@@ -1,6 +1,6 @@
 
 import matplotlib.pyplot as plt
-from data_utils import load_cifar10_data
+from src.data_utils import load_cifar10_data
 
 def show_sample_images(x, y, num_samples=5):
     plt.figure(figsize=(10, 2))
