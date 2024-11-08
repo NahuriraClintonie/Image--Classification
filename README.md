@@ -1,2 +1,2 @@
-# computer-vision-learning
-My journey of learning computer vision in Python
+# Image Classification
+My journey of learning computer vision, started it with Image Classification.
